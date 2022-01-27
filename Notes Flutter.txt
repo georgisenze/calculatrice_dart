@@ -1,0 +1,31 @@
+1- Variables
+2- Opérateurs
+	- Opérateurs arithmétiques
+	- Opérateurs logiques
+	- Opérateurs de commentaire
+	- Opérateurs d'affectation composé
+	- Opérateurs nullable
+		- ??	int x = valeur??;	prend valeur si non nul et prend 5 sinon
+		- ??=	x ?? = valeur;	prend valeur si x nul
+		- ?.	s'utilise sur les fonctions	parent?.send()
+3- Structures de contrôle
+	- Structures conditionnelles
+	- Structures itératives
+4- Les fonctions
+5- Classe
+	- Attributs
+	- Méthodes
+		- Constructeurs
+		- Mutateurs
+		- Destructeurs
+	- Accessibilité
+6- POO
+	- Encapsulation
+	- Héritage
+	- Polymorphisme
+	- Interface
+
+EXOS:
+	- Faire une calculatrice et rendre son utilisation en mode console
+	- Catégories des widgets qui existent en flutter et la liste de chaque catégorie(Rédaction en format markdown(.md))
+	- Dépôt sur github 
